@@ -1,0 +1,12 @@
+<svg width="120" height="40" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .company-name { font: bold 20px 'Arial'; }
+        .tagline { font: 10px 'Arial'; }
+        .building, .company-name, .tagline { fill: currentColor; }
+    </style>
+    <g transform="translate(10,4)">
+        <path class="building" d="M0,28 L8,12 L16,28 Z" />
+        <text x="20" y="20" class="company-name">SABAT</text>
+        <text x="20" y="32" class="tagline">CONSTRUCTION</text>
+    </g>
+</svg> 
